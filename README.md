@@ -2,6 +2,11 @@
 
 A simple widget where you have to slide the button for next action in Flutter. It's really customizable and it adapts to your theme.
 
+## Requirements
+
+- **Flutter**: >=1.17.0
+- **Dart**: ^3.0.0
+
 ## Getting started
 
 Add slider_button to your pubspec:
